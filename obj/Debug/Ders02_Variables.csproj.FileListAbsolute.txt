@@ -1,0 +1,7 @@
+D:\C# Youtube\C#Ders1\Ders02_Variables\bin\Debug\Ders02_Variables.exe.config
+D:\C# Youtube\C#Ders1\Ders02_Variables\bin\Debug\Ders02_Variables.exe
+D:\C# Youtube\C#Ders1\Ders02_Variables\bin\Debug\Ders02_Variables.pdb
+D:\C# Youtube\C#Ders1\Ders02_Variables\obj\Debug\Ders02_Variables.csproj.AssemblyReference.cache
+D:\C# Youtube\C#Ders1\Ders02_Variables\obj\Debug\Ders02_Variables.csproj.CoreCompileInputs.cache
+D:\C# Youtube\C#Ders1\Ders02_Variables\obj\Debug\Ders02_Variables.exe
+D:\C# Youtube\C#Ders1\Ders02_Variables\obj\Debug\Ders02_Variables.pdb
